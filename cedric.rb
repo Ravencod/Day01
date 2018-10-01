@@ -1,1 +1,1 @@
-Puts "Cédric"
+puts "Cédric"
